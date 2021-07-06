@@ -1,6 +1,6 @@
 package com.vaishnavi.examples;
 
-public class Movie Comparable<Movie>
+public class Movie implements Comparable<Movie>
 {
 	public String movieName;
 	public int rating;
